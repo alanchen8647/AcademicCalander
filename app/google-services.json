@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "719097603495",
+    "project_id": "academiccalender-99526",
+    "storage_bucket": "academiccalender-99526.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719097603495:android:e7526063d455e8e942c282",
+        "android_client_info": {
+          "package_name": "com.example.academiccalander"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719097603495-6ni1d8a8u6f00rk05h9cgvqsjld3hvin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTj9Qzsz2fl3JoZiY21jtNeBNpTvSqV9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719097603495-6ni1d8a8u6f00rk05h9cgvqsjld3hvin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
