@@ -35,6 +35,7 @@ dependencies {
     implementation("com.google.firebase:firebase-analytics")
     implementation("com.google.android.material:material:1.8.0")
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")
+    implementation("com.google.android.gms:play-services-tasks:18.0.2")
     testImplementation("junit:junit:4.13.2")
     implementation("com.google.firebase:firebase-auth")
     implementation("com.google.firebase:firebase-firestore:24.7.1")
